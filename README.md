@@ -45,3 +45,8 @@ docker-compose up --build
 ```
 Access to http://127.0.0.1:5000
 ```
+
+#Usage
+---
+When chatbot is running, you can be used to calculate.
+![image](https://github.com/WHS-LLM-Integrated-Webhacking/Chatbot_LLMMath/assets/93432485/04a940d7-1a86-4161-8a31-8778590ee484)
