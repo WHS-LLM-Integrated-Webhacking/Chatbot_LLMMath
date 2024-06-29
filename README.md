@@ -12,13 +12,15 @@ Prerequisites
 Steps
 1. Clone the Repository
    
-`"git https://github.com/WHS-LLM-Integrated-Webhacking/Chatbot_LLMMath`"
+```
+git https://github.com/WHS-LLM-Integrated-Webhacking/Chatbot_LLMMath
 
-`"cd Chatbot_LLMMath`"
+cd Chatbot_LLMMath
+```
   
 3. Setting environment variables within Docker compose
 
-`"
+```
 version: '3.8'
 
 services:
@@ -31,4 +33,4 @@ services:
     environment:
       FLASK_APP: app
       OPENAI_API_KEY: "your_openai_api_key"
-`"
+```
