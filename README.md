@@ -18,7 +18,7 @@ git https://github.com/WHS-LLM-Integrated-Webhacking/Chatbot_LLMMath
 cd Chatbot_LLMMath
 ```
   
-3. Setting environment variables within Docker compose
+2. Setting environment variables within Docker compose
 
 ```
 version: '3.8'
@@ -34,3 +34,11 @@ services:
       FLASK_APP: app
       OPENAI_API_KEY: "your_openai_api_key"
 ```
+
+3. Build
+```
+docker-compose up --build
+```
+
+4. Run
+Access to http://127.0.0.1:5000
