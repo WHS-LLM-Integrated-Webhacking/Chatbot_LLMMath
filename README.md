@@ -5,11 +5,13 @@ This chatbot helps with calculations.
 
 #Intallation
 ---
+
 Prerequisites
 
  - Docker
 
  - Docker compose
+
 
 Steps
 1. Clone the Repository
@@ -47,6 +49,7 @@ docker-compose up --build
 ```
 Access to http://127.0.0.1:5000
 ```
+
 
 #Usage
 ---
