@@ -11,7 +11,7 @@ Prerequisites
 
 Steps
 1. Clone the Repository
-   git clone
-   cd Chatbot_LLMMath
+git https://github.com/WHS-LLM-Integrated-Webhacking/Chatbot_LLMMath clone
+cd Chatbot_LLMMath
   
 2. Setting environment variables within Docker compose
