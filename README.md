@@ -8,6 +8,7 @@ This chatbot helps with calculations.
 Prerequisites
 
 -Docker
+
 -Docker compose
 
 Steps
