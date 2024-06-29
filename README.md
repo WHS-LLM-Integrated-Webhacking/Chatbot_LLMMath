@@ -6,10 +6,10 @@ This chatbot helps with calculations.
 #Intallation
 ---
 Prerequisites
---
--Docker
 
--Docker compose
+ - Docker
+
+ - Docker compose
 
 Steps
 1. Clone the Repository
